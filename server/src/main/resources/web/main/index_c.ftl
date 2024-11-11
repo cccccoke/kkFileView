@@ -24,6 +24,7 @@
         .container {
             width: 50vw;
             height: 50vh;
+            text-align: center;
             margin: 0 auto;
         }
 
