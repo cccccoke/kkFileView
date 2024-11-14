@@ -16,7 +16,7 @@
 </#if>
 <iframe src="" width="100%" frameborder="0"></iframe>
 <#if "false" == switchDisabled>
-    <img src="images/jpg.svg" width="28" height="28" style="position: fixed; cursor: pointer; top: 40%; right: 28px; z-index: 999;" alt="使用图片预览" title="使用图片预览" onclick="goForImage()"/>
+    <img src="images/jpg.svg" width="48" height="48" style="position: fixed; cursor: pointer; top: 40%; right: 28px; z-index: 999;" alt="使用图片预览" title="使用图片预览" onclick="goForImage()"/>
 </#if>
 </body>
 
