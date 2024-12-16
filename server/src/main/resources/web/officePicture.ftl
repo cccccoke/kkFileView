@@ -38,7 +38,7 @@
     </#list>
 </div>
 <#if "false" == switchDisabled>
-    <img src="images/pdf.svg" width="20" height="20" style="position: fixed; cursor: pointer; top: 90%; right: 18px; z-index: 999;" alt="使用PDF预览" title="使用PDF预览" onclick="changePreviewType('pdf')"/>
+    <img src="images/pdf.svg" width="20" height="20" style="position: fixed; cursor: pointer; top: 40%; right: 20px; z-index: 999;" alt="使用PDF预览" title="使用PDF预览" onclick="changePreviewType('pdf')"/>
 </#if>
 <script>
     window.onload = function () {
